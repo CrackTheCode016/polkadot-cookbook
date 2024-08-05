@@ -1,0 +1,16 @@
+polkadot:
+  label: Polkadot
+  permalink: /polkadot
+  description: Polkadot - the secure core for web3
+sdk:
+  label: Polkadot SDK
+  permalink: /sdk
+  description: The Polkadot SDK - the best thing since sliced bread (for building secure, web3 infrastructure).
+contracts:
+  label: Smart Contracts
+  permalink: /contracts
+  description: They live everywhere on web3!
+dapps:
+  label: Dapps
+  permalink: /dapps
+  description: Hola tag description

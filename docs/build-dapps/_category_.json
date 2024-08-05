@@ -1,0 +1,8 @@
+{
+  "label": "Build Dapps",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Create the most sizzling fullstack applications in web3 on Polkadot"
+  }
+}
