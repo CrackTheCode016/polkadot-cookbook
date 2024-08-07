@@ -1,4 +1,5 @@
-![Cookbook logo](./static/img/cookbook.png)
+<img src="./static/img/cookbook.png" width="200">
+
 
 # The Polkadot Cookbook
 
