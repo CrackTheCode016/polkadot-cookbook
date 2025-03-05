@@ -100,8 +100,8 @@ Remember that Substrate is built to be generic, saving the developer the pains o
 blockchain-related primitives from scratch. FRAME and Substrate both make use of two crucial
 Rust-related concepts:
 
-- [Macros](../../Rust/section7/macros.md)
-- [Generics / Associated Types](../../Rust/section6/generics.md)
+- [Macros](https://doc.rust-lang.org/book/ch20-06-macros.html)
+- [Generics / Associated Types](https://doc.rust-lang.org/book/ch10-00-generics.html)
 
 `T` refers to a generic or **placeholder** type. Where macros enable a relatively easy experience
 implementing various mandatory functionality, generics allow the code to be highly configurable. The
