@@ -20,6 +20,9 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    mermaid: true,
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -68,7 +71,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Tutorials',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -116,7 +119,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/w3f',
+              href: 'https://github.com/CrackTheCode016/polkadot-cookbook',
             },
           ],
         },

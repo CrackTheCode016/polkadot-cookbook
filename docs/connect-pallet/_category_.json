@@ -1,0 +1,8 @@
+{
+  "label": "Connect Pallet Tutorial",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Create a custom pallet and connect it to your runtime."
+  }
+}
